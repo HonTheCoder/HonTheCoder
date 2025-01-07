@@ -21,8 +21,8 @@
 ---
 
 ## 🌟 GitHub Stats  
-![HonTheCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=HonTheCode&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HonTheCode&layout=compact&theme=radical)
+![HonTheCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=HonTheCoder&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HonTheCoder&layout=compact&theme=radical)
 
 ---
 
