@@ -1,4 +1,4 @@
-# Hi there! 👋  
+# Hi there!as 👋  
 ### I'm Hon Ezekiel Bognalbal 🚀  
 
 - 🎓 **3rd Year BS Information Technology Student** at **Bicol University**.  
