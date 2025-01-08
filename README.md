@@ -38,5 +38,5 @@
 
 ---
 
-## 🌈 Fun Fact  
+## 🤓 Fun Fact  
 🌟 I believe that **every challenge is an opportunity to grow**, and I’m always ready to learn something new!  
