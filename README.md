@@ -1,8 +1,8 @@
 # Hi there!! 👋  
 ### I'm Hon Ezekiel Bognalbal 🚀  
-- 🎓 **3rd Year BS Information Technology Student** at **Bicol University**.  
+- 🎓 **4th Year BS Information Technology Student** at **Bicol University**.  
 - 💻 Skilled in **HTML**, **CSS**, **JavaScript**, **SQL**, **PHP**.  
-- 🔧 Also experienced in **C++** and dabbling in **Java**.  
+- 🔧 Also experienced in **C++** and dabbling in **Java** and **Python**.  
 - 📚 **Craving for more knowledge and learning** to grow as a developer.  
 - 💼 Open for **commissions**: Let’s bring your ideas to life!  
 
