@@ -93,9 +93,13 @@
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HonTheCoder&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=HonTheCoder&show_icons=true&theme=tokyonight&hide_border=true" alt="Hon's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HonTheCoder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HonTheCoder&show_icons=true&theme=tokyonight" alt="Hon's Stats" />
+  <br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HonTheCoder&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HonTheCoder&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
