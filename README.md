@@ -1,21 +1,5 @@
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api
-    ?type=waving
-    &height=240
-    &color=0:020617,40:0f172a,70:020617,100:000000
-    &text=Hon%20Ezekiel%20Bognalbal
-    &fontSize=40
-    &fontColor=E5E7EB
-    &animation=twinkling
-    &fontAlignY=35
-    &stroke=FFFFFF
-    &strokeWidth=1.5
-    &desc=DevHon
-    &descAlignY=60
-    &descSize=20
-    &descColor=22D3EE"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,40:0f172a,70:020617,100:000000&text=Hon%20Ezekiel%20Bognalbal&fontSize=40&fontColor=E5E7EB&animation=twinkling&fontAlignY=35&stroke=FFFFFF&strokeWidth=1.5&desc=DevHon&descAlignY=60&descSize=20&descColor=22D3EE"/>
 </p>
 
 
