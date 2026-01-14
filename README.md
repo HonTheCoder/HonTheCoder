@@ -13,11 +13,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HonTheCoder&theme=tokyonight&column=7" alt="Trophies" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,40:0f172a,70:020617,100:000000&text=Hon%20Ezekiel%20Bognalbal&fontSize=40&fontColor=E5E7EB&animation=twinkling&fontAlignY=35&stroke=FFFFFF&strokeWidth=1.5&desc=DevHon&descAlignY=60&descSize=20&descColor=22D3EE"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HonTheCoder&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=600&lines=IT+Student+%7C+Builder+Mindset;Web+%26+Mobile+Developer;Flutter+Learner;Game+Dev+for+Fun;Always+Learning+New+Tech" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HonTheCoder/HonTheCoder/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 
