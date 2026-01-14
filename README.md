@@ -89,9 +89,8 @@
 ## 👾 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HonTheCoder/HonTheCoder/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
+  <img src="https://github-contribution-graph.ez4o.com/?username=HonTheCoder&theme=dark&bg=020617&color=22D3EE" />
 </p>
-
 ---
 
 ## ✍️ Dev Quote
@@ -105,33 +104,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:devhon.contact@gmail.com)
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,50:0f172a,100:000000&section=footer"/>
-</p>
-
-name: Pacman Contribution Graph
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-
-      - name: Generate Pacman SVG
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: HonTheCoder
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
