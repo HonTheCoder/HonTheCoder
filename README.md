@@ -12,6 +12,14 @@
   <img src="https://raw.githubusercontent.com/HonTheCoder/HonTheCoder/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HonTheCoder&theme=tokyonight&column=7" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HonTheCoder&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 
 ## 👋 About Me
 🎓 **4th Year BS Information Technology** at **Bicol University**  
@@ -59,12 +67,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-<p align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://www.dartlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-</p>
+
 **Currently Exploring**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
