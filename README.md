@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0f172a,100:020617&text=Hon%20Ezekiel%20Bognalbal%0A*DevHon*&fontSize=40&fontColor=E5E7EB&animation=fadeIn&fontAlignY=35&desc=Builder%20Mindset%20%7C%20Modern%20Developer&descAlignY=60&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,40:0f172a,70:020617,100:000000&text=Hon%20Ezekiel%20Bognalbal%0A*DevHon*&fontSize=40&fontColor=E5E7EB&animation=twinkling&fontAlignY=35&stroke=22D3EE&strokeWidth=1&desc=Builder%20Mindset%20%7C%20Modern%20Developer&descAlignY=60&descSize=16"/>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=600&lines=IT+Student+%7C+Builder+Mindset;Web+%26+Mobile+Developer;Flutter+Learner;Game+Dev+for+Fun;Always+Learning+New+Tech" />
+</p>
+
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&width=1000&height=120&bg=020617&color=22D3EE"/>
 </p>
 
 ---
@@ -53,7 +57,7 @@
 ---
 
 ## 🚀 Featured Projects
-> Click any project to view the repo or live preview.
+> Click a project to view the repository or live preview.
 
 ### 🔹 [ReliefPoint / ReliefDistribution System](https://github.com/HonTheCoder/ReliefPoint)
 - 🏗️ Relief allocation & tracking system  
@@ -62,7 +66,7 @@
 
 ### 🔹 [TheMagicPen – Desktop Tool](https://github.com/HonTheCoder/TheMagicPen)
 - ✒️ All-in-one UI inspection tool  
-- 🎨 Color picker, font identifier, UI analyzer  
+- 🎨 Color picker, font detection, UI analyzer  
 - ⚡ Fast & productivity-focused  
 
 ### 🔹 [Game Dev Experiments](https://github.com/HonTheCoder/Game-Experiments)
@@ -70,7 +74,7 @@
 - 🧠 Event logic, triggers, player experience  
 - 🔍 Built purely for learning & fun  
 
-> 📌 *If a project isn’t deployed yet, it redirects to its GitHub repository.*
+> 📌 *Projects without live demos redirect to their GitHub repositories.*
 
 ---
 
