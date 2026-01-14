@@ -68,6 +68,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HonTheCoder&show_icons=true&theme=tokyonight" alt="Hon's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HonTheCoder&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+---
 
 ## 🚀 Featured Projects
 > Click a project to view the repository or live preview.
