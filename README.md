@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hon%20Ezekiel%20Bognalbal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b0f14,50:111827,100:020617&text=Hon%20Ezekiel%20Bognalbal%0ADevHon&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Builder%20Mindset%20%7C%20Modern%20Developer&descAlignY=60&descSize=16"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=550&lines=IT+Student+%7C+Builder+Mindset;Web+%26+Mobile+Developer;Flutter+Learner;Game+Dev+for+Fun;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=600&lines=Vibe+Coder+with+Real+Understanding;Web+%26+Mobile+Developer;Flutter+Learner;Game+Dev+for+Fun;Always+Exploring+New+Tech" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
 ---
 
@@ -12,15 +14,15 @@
 🎓 **4th Year BS Information Technology** at **Bicol University**  
 💻 I build **web apps**, **systems**, and **games for fun**  
 🧠 Curious, experimental, and always improving  
-🔥 I enjoy turning ideas into **real, working projects**
+🔥 I turn ideas into **real, working projects**
 
 ---
 
 ## 🧠 Dev Mindset
-- 😎 **Vibe coder** — but I make sure I **understand the code**
-- 🤖 I use **AI prompts effectively** to get **better, cleaner solutions**
-- 🔍 I review, tweak, and optimize generated code
-- 🚀 Focused on learning *why* things work, not just *that* they work
+- 😎 **Vibe coder**, but I always **understand the code**
+- 🤖 I use **AI prompts smartly** to get **better, cleaner solutions**
+- 🔍 I review, refactor, and optimize — never blind copy
+- 🚀 Focused on *why it works*, not just *that it works*
 
 ---
 
@@ -49,30 +51,26 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Game Dev](https://img.shields.io/badge/Game%20Dev-000000?style=flat&logo=unity&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
-> Some of the projects I’ve built for school, practice, and pure curiosity.
+> Selected projects built for school, practice, and curiosity.
 
-### 🔹 ReliefPoint / ReliefDistribution System
+### 🔹 ReliefPoint / ReliefDistribution
 - 🏗️ Relief allocation & tracking system
 - 👥 Multi-role (Barangay & Municipal)
-- 📊 Priority-based distribution
-- 🛠️ Web & mobile-focused system
+- 📊 Priority-based distribution logic
 
-### 🔹 TheMagicPen (Desktop Tool)
-- ✒️ All-in-one UI inspection tool
-- 🎨 Color picker, font identifier, UI analyzer
-- ⚡ Fast, lightweight, productivity-focused
+### 🔹 TheMagicPen
+- ✒️ All-in-one UI inspection desktop tool
+- 🎨 Color picker, font detection, UI analysis
+- ⚡ Fast & productivity-focused
 
 ### 🔹 Game Dev Experiments
-- 🎮 Small horror & simulation game prototypes
-- 🧠 Focused on logic, events, and player experience
-- 🔍 Built for learning & fun
-
-> 📌 *More projects coming as I keep building and experimenting.*
+- 🎮 Horror & simulation prototypes
+- 🧠 Event systems, logic, player experience
+- 🔍 Built purely for learning & fun
 
 ---
 
@@ -101,10 +99,6 @@
 
 ---
 
-## 💡 Fun Fact
-✨ I believe **growth comes from building, failing, and improving** —  
-so I keep learning, experimenting, and shipping projects.
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,50:111827,100:000000&section=footer"/>
 </p>
