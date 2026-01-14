@@ -100,6 +100,10 @@
   </kbd>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HonTheCoder&theme=darkhub&no-bg=true&column=7" alt="trophy" />
+</p>
+
 ---
 
 ## ✍️ Dev Quote
