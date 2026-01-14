@@ -1,23 +1,30 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,40:0f172a,70:020617,100:000000&text=Hon%20Ezekiel%20Bognalbal%0A&fontSize=40&fontColor=E5E7EB&animation=twinkling&fontAlignY=35&stroke=22D3EE&strokeWidth=1&desc=Dev%Hon%20%&descAlignY=60&descSize=16"/>
+  <img
+    src="https://capsule-render.vercel.app/api
+    ?type=waving
+    &height=240
+    &color=0:020617,40:0f172a,70:020617,100:000000
+    &text=Hon%20Ezekiel%20Bognalbal
+    &fontSize=40
+    &fontColor=E5E7EB
+    &animation=twinkling
+    &fontAlignY=35
+    &stroke=FFFFFF
+    &strokeWidth=1.5
+    &desc=DevHon
+    &descAlignY=60
+    &descSize=20
+    &descColor=22D3EE"
+  />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=600&lines=IT+Student+%7C+Builder+Mindset;Web+%26+Mobile+Developer;Flutter+Learner;Game+Dev+for+Fun;Always+Learning+New+Tech" />
 </p>
 
-<p align="center">
-  <img 
-    src="https://svg-banners.vercel.app/api?type=glitch
-    &text=DevHon
-    &width=1000
-    &height=120
-    &bg=020617
-    &color=22D3EE
-    &fontSize=48
-    &fontFamily=monospace"
-  />
-</p>
+
+<img src="https://svg-banners.vercel.app/api?type=matrix&text=DevHon&width=1000&height=120&bg=000000&color=00FFAA&fontSize=46"/>
 
 
 ---
