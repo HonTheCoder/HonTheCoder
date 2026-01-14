@@ -7,10 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=600&lines=IT+Student+%7C+Builder+Mindset;Web+%26+Mobile+Developer;Flutter+Learner;Game+Dev+for+Fun;Always+Learning+New+Tech" />
 </p>
 
-
-<img src="https://svg-banners.vercel.app/api?type=matrix&text=DevHon&width=1000&height=120&bg=000000&color=00FFAA&fontSize=46"/>
-
-
 ---
 
 ## 👋 About Me
