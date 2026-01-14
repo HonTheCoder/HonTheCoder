@@ -99,7 +99,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HonTheCoder&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=HonTheCoder&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
