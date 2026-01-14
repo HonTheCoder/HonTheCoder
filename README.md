@@ -89,19 +89,24 @@
 ## 👾 Contribution Activity
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HonTheCoder&theme=darkhub&no-bg=true&column=6&margin-w=15" alt="Trophies" />
+</p>
+
+<p align="center">
   <kbd>
     <br>
-    <font size="5" color="#22D3EE"><b>🚀 DEVHON'S CONTRIBUTION LAB 🚀</b></font>
+    <font size="5" color="#22D3EE"><b>⚡ DEVHON'S CONTRIBUTION LAB ⚡</b></font>
     <br>
     <img src="https://raw.githubusercontent.com/HonTheCoder/HonTheCoder/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
     <br>
-    <font color="#22D3EE"><i>Eating bugs and committing code...</i></font>
+    <font color="#22D3EE"><i>Building the future, one commit at a time.</i></font>
     <br><br>
   </kbd>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HonTheCoder&theme=darkhub&no-bg=true&column=7" alt="trophy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HonTheCoder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=E5E7EB" alt="Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HonTheCoder&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=E5E7EB" alt="Languages" height="150" />
 </p>
 
 ---
