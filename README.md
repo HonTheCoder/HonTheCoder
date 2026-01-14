@@ -98,10 +98,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HonTheCoder&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=HonTheCoder&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## ✍️ Dev Quote
