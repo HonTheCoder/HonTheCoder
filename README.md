@@ -87,10 +87,14 @@
 ---
 
 ## 👾 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HonTheCoder&theme=react-dark&area=true&hide_border=true" width="100%" />
+</p>
 
 <p align="center">
-  <img src="[https://github-contribution-graph.ez4o.com/?username=HonTheCoder&theme=dark&bg=020617&color=22D3EE](https://github-contribution-graph.ez4o.com/?username=HonTheCoder)" />
+  <img src="https://pacman-repo-stats.vercel.app/api/pacman?user=HonTheCoder&theme=dark" alt="Pacman Eating Contributions" />
 </p>
+
 ---
 
 ## ✍️ Dev Quote
