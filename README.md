@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,40:0f172a,70:020617,100:000000&text=Hon%20Ezekiel%20Bognalbal&fontSize=40&fontColor=E5E7EB&animation=twinkling&fontAlignY=35&stroke=FFFFFF&strokeWidth=1.5&desc=DevHon&descAlignY=60&descSize=20&descColor=22D3EE"/>
 </p>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=600&lines=IT+Student+%7C+Builder+Mindset;Web+%26+Mobile+Developer;Flutter+Learner;Game+Dev+for+Fun;Always+Learning+New+Tech" />
 </p>
@@ -22,6 +21,18 @@
 - 🤖 I use **AI prompts effectively** for **better, cleaner solutions**
 - 🔍 I review, refactor, and optimize generated code
 - 🚀 Focused on learning *why* things work, not just *that* they work
+
+---
+
+## 🧩 Programming Foundations
+- 🧱 I know the **basics of programming languages** I use  
+- 📘 **Basics in Python**, Java, C++, JavaScript, PHP, and SQL  
+- 🔁 I understand **syntax, conditions, loops, and core logic**
+- 🤖 Through the **help of AI**, I can create:
+  - applications
+  - programs
+  - systems  
+- 🛠️ I analyze, adjust, and improve AI-generated code to match my needs
 
 ---
 
