@@ -89,7 +89,15 @@
 ## 👾 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HonTheCoder/HonTheCoder/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <kbd>
+    <br>
+    <font size="5" color="#22D3EE"><b>🚀 DEVHON'S CONTRIBUTION LAB 🚀</b></font>
+    <br>
+    <img src="https://raw.githubusercontent.com/HonTheCoder/HonTheCoder/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+    <br>
+    <font color="#22D3EE"><i>Eating bugs and committing code...</i></font>
+    <br><br>
+  </kbd>
 </p>
 
 ---
