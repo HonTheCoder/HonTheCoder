@@ -89,7 +89,7 @@
 ## 👾 Contribution Activity
 
 <p align="center">
-  <img src="https://github-contribution-graph.ez4o.com/?username=HonTheCoder&theme=dark&bg=020617&color=22D3EE" />
+  <img src="[https://github-contribution-graph.ez4o.com/?username=HonTheCoder&theme=dark&bg=020617&color=22D3EE](https://github-contribution-graph.ez4o.com/?username=HonTheCoder)" />
 </p>
 ---
 
