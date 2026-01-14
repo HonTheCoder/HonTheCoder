@@ -8,6 +8,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HonTheCoder/HonTheCoder/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+
 ## 👋 About Me
 🎓 **4th Year BS Information Technology** at **Bicol University**  
 💻 I build **web apps**, **systems**, and **games for fun**  
@@ -85,12 +90,6 @@
 > 📌 *Projects without live demos redirect to their GitHub repositories.*
 
 ---
-
-## 👾 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HonTheCoder/HonTheCoder/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
 
 ---
 
