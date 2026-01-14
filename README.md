@@ -87,12 +87,9 @@
 ---
 
 ## 👾 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HonTheCoder&theme=react-dark&area=true&hide_border=true" width="100%" />
-</p>
 
 <p align="center">
-  <img src="https://pacman-repo-stats.vercel.app/api/pacman?user=HonTheCoder&theme=dark" alt="Pacman Eating Contributions" />
+  <img src="https://raw.githubusercontent.com/HonTheCoder/HonTheCoder/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
