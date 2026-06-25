@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=600&lines=IT+Student+%7C+Builder+Mindset;Web+%26+Mobile+Developer;Flutter+Learner;Game+Dev+for+Fun;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=600&lines=Fresh+Graduate+%7C+Builder+Mindset;Junior+Web+Developer+%2F+IT+Staff;Web+%26+Mobile+Developer;Flutter+Learner;Always+Learning+New+Tech" />
 </p>
 
 ---
@@ -14,8 +14,9 @@
 
 
 ## 👋 About Me
-🎓 **4th Year BS Information Technology** at **Bicol University**  
-💻 I build **web apps**, **systems**, and **games for fun**  
+🎓 **BS Information Technology Graduate** from **Bicol University**  
+💼 Currently working as a **Junior Web Developer / IT Staff**  
+💻 I build **web apps**, **systems**, and **interactive mini-games**  
 🧠 Curious, experimental, and always improving  
 🔥 I enjoy turning ideas into **real, working projects**
 
@@ -44,7 +45,7 @@
 ## 🧩 What I'm Into
 - 🌐 Web Development  
 - 📱 Mobile Development (**currently learning Flutter**)  
-- 🎮 Game Development (for fun & learning)  
+- 🎮 Interactive Web Games & Mechanics  
 - 🛠️ Exploring new tools & technologies  
 
 ---
@@ -72,20 +73,25 @@
 ## 🚀 Featured Projects
 > Click a project to view the repository or live preview.
 
-### 🔹 [ReliefPoint / ReliefDistribution System](https://github.com/HonTheCoder/ReliefPoint)
-- 🏗️ Relief allocation & tracking system  
-- 👥 Barangay & Municipal roles  
-- 📊 Priority-based distribution logic  
+### 🔹 Legislative Portal of Polangui
+- 🏛️ Comprehensive role-based municipal management system  
+- 📅 Dynamic booking system and real-time document dispatch tracking  
+- 📢 Automated announcement board for streamlined local governance  
 
-### 🔹 [TheMagicPen – Desktop Tool](https://github.com/HonTheCoder/TheMagicPen)
-- ✒️ All-in-one UI inspection tool  
-- 🎨 Color picker, font detection, UI analyzer  
-- ⚡ Fast & productivity-focused  
+### 🔹 ReliefPoint / ReliefDistribution System *(Private Repo)*
+- 🏗️ Relief allocation & tracking system engineered for local administration  
+- 👥 Barangay & Municipal access control roles  
+- 📊 Priority-based distribution logic for efficient resource handling  
 
-### 🔹 [Game Dev Experiments](https://github.com/HonTheCoder/Game-Experiments)
-- 🎮 Horror & simulation prototypes  
-- 🧠 Event logic, triggers, player experience  
-- 🔍 Built purely for learning & fun  
+### 🔹 [Chopmetry](https://chopmetry.netlify.app)
+- ⚔️ An interactive, fast-paced shape-slashing web game
+- 📐 Tests reflexes by slicing through dynamic geometric shapes
+- ⚡ Smooth animations and clean physics logic
+
+### 🔹 [TypingNexus](https://typingnexus.vercel.app)
+- ⌨️ A sleek, responsive typing game built to test and improve WPM
+- 🧠 Real-time accuracy tracking and dynamic word generation
+- 🔍 Focused on clean state management and responsive UI/UX
 
 > 📌 *Projects without live demos redirect to their GitHub repositories.*
 
